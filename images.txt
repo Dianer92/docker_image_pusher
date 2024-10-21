@@ -6,9 +6,9 @@
 #registry.aliyuncs.com/google_containers/coredns:v1.9.3
 #registry.aliyuncs.com/google_containers/pause:3.8
 
-pnetlab/centos7-server:latest
-pnetlab/pnet-wireshark:latest
-pnetlab/ubuntu_sv:latest
-pnetlab/apache2:latest
-pnetlab/pnet-chrome:latest
-pnetlab/mysql_server:latest
+docker.io/pnetlab/centos7-server:latest
+docker.io/pnetlab/pnet-wireshark:latest
+docker.io/pnetlab/ubuntu_sv:latest
+docker.io/pnetlab/apache2:latest
+docker.io/pnetlab/pnet-chrome:latest
+docker.io/pnetlab/mysql_server:latest
