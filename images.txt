@@ -10,4 +10,5 @@
 #docker.io/openjdk:8-jdk-alpine
 #docker.io/songxwn/netbox-cn-docker:4.0.3-2.9.9
 #docker.io/matrixseven/file-transfer-go:latest
-docker.io/codeskyblue/gohttpserver
+#docker.io/codeskyblue/gohttpserver
+docker.io/lanol/filecodebox:beta
