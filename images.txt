@@ -12,5 +12,6 @@
 #docker.io/matrixseven/file-transfer-go:latest
 #docker.io/codeskyblue/gohttpserver
 #docker.io/lanol/filecodebox:beta
-mcr.microsoft.com/dotnet/aspnet:8.0
-mcr.microsoft.com/dotnet/sdk:8.0
+#mcr.microsoft.com/dotnet/aspnet:8.0
+#mcr.microsoft.com/dotnet/sdk:8.0
+docker.io/library/python:3.12-alpine3.22
