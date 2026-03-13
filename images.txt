@@ -17,4 +17,5 @@
 #docker.io/library/python:3.12-alpine3.22
 #docker.io/grokability/snipe-it:v8.1.2
 #docker.io/glpi/glpi:11.0.6
-docker.io/supervisions/itop:2.7.13
+#docker.io/supervisions/itop:2.7.13
+docker.io/supervisions/itop:3.2.2
