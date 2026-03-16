@@ -28,7 +28,7 @@
 #docker.io/xiangwb/chemex:latest
 #docker.io/hntjb/chemex:3.7.0
 #docker.io/wzcqeasd/chemex:3.5.2
-docker.io/lorisleiva/laravel-docker:8.5
-docker.io/lorisleiva/laravel-docker:8.4
-docker.io/lorisleiva/laravel-docker:8.3
-docker.io/lorisleiva/laravel-docker:8.2
+#docker.io/lorisleiva/laravel-docker:8.5
+#docker.io/lorisleiva/laravel-docker:8.4
+#docker.io/lorisleiva/laravel-docker:8.3
+docker.io/lorisleiva/laravel-docker:8.1
