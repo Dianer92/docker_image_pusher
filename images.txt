@@ -21,4 +21,5 @@
 #docker.io/supervisions/itop:3.2.2
 #docker.io/vbkunin/itop:latest
 #docker.io/library/python:3.9-slim
-docker.io/lorisleiva/laravel-docker:latest
+#docker.io/lorisleiva/laravel-docker:latest
+docker.io/celaraze/chemex:latest
