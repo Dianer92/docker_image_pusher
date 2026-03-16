@@ -23,4 +23,5 @@
 #docker.io/library/python:3.9-slim
 #docker.io/lorisleiva/laravel-docker:latest
 #docker.io/library/php:8.1-fpm-alpine
-docker.io/library/php:8.1-fpm-bullseye
+#docker.io/library/php:8.1-fpm-bullseye
+docker.io/richarvey/nginx-php-fpm:latest
