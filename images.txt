@@ -32,4 +32,5 @@
 #docker.io/lorisleiva/laravel-docker:8.4
 #docker.io/lorisleiva/laravel-docker:8.3
 #docker.io/lorisleiva/laravel-docker:8.1
-docker.io/library/php:8.1.34-apache
+#docker.io/library/php:8.1.34-apache
+docker.io/hanxi/xiaomusic:v0.4.26
